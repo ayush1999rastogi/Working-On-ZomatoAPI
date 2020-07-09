@@ -1,5 +1,5 @@
 
-Zomato API
+Project Zomato API
 
 
 For this project, we are using the Zomato API.
